@@ -1,0 +1,8 @@
+# Robots.txt for BrightSmile Dental Studio
+# This is a fictional demonstration website by Vireon Technologies.
+
+User-agent: *
+Allow: /
+
+# Sitemap — Update the URL below after deploying to GitHub Pages
+# Sitemap: https://yourusername.github.io/brightsmile-dental/sitemap.xml
